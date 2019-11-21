@@ -17,7 +17,8 @@ Pancakes are delicious
 ## Preparing the batter
 
 - combine the flour, baking powder and salt
-- Make a well in the center and pour the  milk, eggs and butter in it
+- Make a well in the center and pour the milk, eggs and butter in it.
+- Mix it all together.
 
 ## Baking the pancakes
 
@@ -25,3 +26,9 @@ Pancakes are delicious
 - Set a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper.
 - When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.
 - Serve with bacon and cheese. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.
+
+## Enjoy!
+
+- When the pancakes are ready. Set the table.
+- Take your cutlery.
+- Eat it all. :-)
