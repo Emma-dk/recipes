@@ -1,4 +1,4 @@
-# Pancakes
+# Granma's pancakes
 
 Pancakes are delicious
 
